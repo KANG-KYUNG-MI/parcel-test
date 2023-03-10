@@ -1,0 +1,1 @@
+export const text = "Vad som hander";
